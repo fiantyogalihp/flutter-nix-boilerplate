@@ -41,7 +41,7 @@
 
 ```bash
 # Clone this boilerplate
-git clone https://github.com/babariviere/flutter-nix-hello-world.git my-flutter-app
+git clone https://github.com/fiantyogalihp/flutter-nix-boilerplate.git my-flutter-app
 cd my-flutter-app
 
 # Enter the development environment
